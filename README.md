@@ -22,4 +22,5 @@ on top of the file.
 ## License
 
 All snippets that are authored by me and do not have a source pointed out in the
-comments on top are licensed as MIT.
+comments on top are licensed as MIT. For all others, follow the links to check
+with their license.
