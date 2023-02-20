@@ -1,3 +1,6 @@
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/klieret/obsidian-snippets/main.svg)](https://results.pre-commit.ci/latest/github/klieret/obsidian-snippets/main)
+[![Check Markdown links](https://github.com/klieret/obsidian-snippets/actions/workflows/check-links.yaml/badge.svg)](https://github.com/klieret/obsidian-snippets/actions/workflows/check-links.yaml)
+
 # Snippets for Obsidian
 
 This is a collection of the snippets that I use for [Obsidian][obsidian].
