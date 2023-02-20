@@ -80,8 +80,6 @@
 
 /* End link show/hide stuff */
 
-
-
 /* remove border and scroll */
 /* unfortunately needs !important for some themes */
 .markdown-preview-view .markdown-embed,
@@ -92,7 +90,7 @@
 }
 
 .markdown-preview-view .markdown-embed-content,
-.markdown-preview-view .markdown-embed-content > .markdown-preview-view { 
+.markdown-preview-view .markdown-embed-content > .markdown-preview-view {
   max-height: unset;
   padding: 0 !important; /* !important for "Pisum" theme */
   margin: 0;
@@ -104,16 +102,14 @@
   display: none;
 }
 
-
 /* remove vertical space added by markdown-preview-sizer */
- div.markdown-preview-sizer.markdown-preview-section {
+div.markdown-preview-sizer.markdown-preview-section {
   min-height: unset !important;
   padding-bottom: 0 !important;
 }
 
 /* special considerations for printing (PDF export) */
 @media print {
-
   /* remove frontmatter box if "Show frontmatter" was enabled */
   /* Also remove metadata table from "Metatable" plugin */
   pre.frontmatter,

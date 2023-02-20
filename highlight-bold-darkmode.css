@@ -1,10 +1,9 @@
-.theme-dark .cm-strong, .theme-dark strong {
-	font-weight: 550;
-	text-transform: uppercase;
-	font-size: .9em;
-	letter-spacing: .125em;
-	border-radius: 4px;
-    text-decoration: underline;
+.theme-dark .cm-strong,
+.theme-dark strong {
+  font-weight: 550;
+  text-transform: uppercase;
+  font-size: 0.9em;
+  letter-spacing: 0.125em;
+  border-radius: 4px;
+  text-decoration: underline;
 }
-
-
