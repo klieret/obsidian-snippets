@@ -9,14 +9,17 @@ on top of the file.
 
 ## Overview of the snippets
 
-- Display internal links in all caps. This was
+- `all-caps-internal-links.css`: Display internal links in all caps. This was
   originally a design feature by the [Sanctum][sanctum] theme, but got dropped in
   newer releases
-- Make embeds blend into notes
-- Disable strikethrough for ticked checkboxes
-- Highlight bold darkmode: Bold text in dark mode doesn't stand out very much, so
+- `clean-embeds-all.css`: Make embeds blend into notes (Removes title, link, padding, 
+  margins from embeds, so they really look like the same note). This code is from
+  Matthias C. Hormann.
+- `disable_strikethrough_checkbox.css`: Disable strikethrough for ticked checkboxes
+  (authors are [mxmossy][] and [conname][])
+- `highlight-bold-darkmode.css`: Highlight bold darkmode: Bold text in dark mode doesn't stand out very much, so
   this snippets makes it underlined and all-caps.
-- Justify all text in obsidian
+- `justified.css`: Justify all text in obsidian
 
 [obsidian]: https://obsidian.md/
 [sanctum]: https://github.com/jdanielmourao/obsidian-sanctum/
@@ -26,3 +29,6 @@ on top of the file.
 All snippets that are authored by me and do not have a source pointed out in the
 comments on top are licensed as MIT. For all others, follow the links to check
 with their license.
+
+[mxmossy]: https://forum.obsidian.md/u/mxmossy
+[conname]: https://forum.obsidian.md/u/conname
