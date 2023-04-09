@@ -1,3 +1,6 @@
+/* Doesn't work in edit mode at the moment
+ * because of https://stackoverflow.com/questions/4481318/
+ */
 .cm-s-obsidian span.cm-hmd-internal-link,
 .markdown-preview-view .internal-link {
   text-decoration: none;
