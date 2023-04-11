@@ -14,7 +14,7 @@ on top of the file.
   newer releases
 - `clean-embeds-all.css`: Make embeds blend into notes (Removes title, link, padding,
   margins from embeds, so they really look like the same note). This code is from
-  Matthias C. Hormann.
+  Matthias C. Hormann (currently not working)
 - `disable_strikethrough_checkbox.css`: Disable strikethrough for ticked checkboxes
   (authors are [mxmossy][] and [conname][])
 - `highlight-bold-darkmode.css`: Highlight bold darkmode: Bold text in dark mode doesn't stand out very much, so
