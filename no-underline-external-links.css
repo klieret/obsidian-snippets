@@ -1,18 +1,10 @@
-.cm-s-obsidian span.cm-hmd-internal-link,
-.markdown-preview-view .internal-link {
-  font-weight: 550;
-  text-transform: uppercase;
-  font-size: 0.9em;
-  letter-spacing: 0.125em;
-  border-radius: 4px;
-}
-
 /* Removing underlines in edit mode.
  * This is a bit more tricky because of
  * https://stackoverflow.com/questions/4481318/
  * Solution based on https://www.reddit.com/r/ObsidianMD/comments/s9ip7v/link_underline/
  */
-.cm-hmd-internal-link .cm-underline,
-.internal-link {
+a.external-link,
+.cm-link .cm-underline,
+.cm-link {
   text-decoration: initial !important;
 }

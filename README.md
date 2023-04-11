@@ -12,6 +12,7 @@ on top of the file.
 - `all-caps-internal-links.css`: Display internal links in all caps. This was
   originally a design feature by the [Sanctum][sanctum] theme, but got dropped in
   newer releases
+- `no-underline-external-links.css`: Remove underline from external links
 - `clean-embeds-all.css`: Make embeds blend into notes (Removes title, link, padding,
   margins from embeds, so they really look like the same note). This code is from
   Matthias C. Hormann (currently not working)
