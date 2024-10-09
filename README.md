@@ -21,6 +21,7 @@ on top of the file.
 - `highlight-bold-darkmode.css`: Highlight bold darkmode: Bold text in dark mode doesn't stand out very much, so
   this snippets makes it underlined and all-caps.
 - `justified.css`: Justify all text in obsidian
+- `bright_hrs_darkmode.css`: Make sure that `<hr/>`s show up bright in dark theme
 
 [obsidian]: https://obsidian.md/
 [sanctum]: https://github.com/jdanielmourao/obsidian-sanctum/

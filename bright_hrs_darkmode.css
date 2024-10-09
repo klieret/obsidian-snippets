@@ -1,0 +1,4 @@
+/* Make sure that hr lines show up bright in dark theme */
+.theme-dark .cm-line hr {
+  border-color: #7e7f7f;
+}
